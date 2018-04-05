@@ -1,0 +1,17 @@
+<body>
+                h1 {
+                    background-color: blue;
+                    color: red;
+                    text-align: center;
+                }
+
+                h2 {
+                    text-align: right;
+                    clear: both;
+                }
+
+                img, h6 {
+                    float: right;
+                    clear: both;      
+                }
+</body>
